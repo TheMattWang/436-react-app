@@ -1,0 +1,56 @@
+{
+    "userName": "The Rizzler",
+    "graduationDate": "December 2025",
+    "gpa": "3.9",
+    "degreeProgress": "80",
+    "major": "Computer Science",
+    "degreeType": "Bachelor of Science",
+    "selectedTerms": {
+      "CSCE 121: Introduction to Program Design": {
+        "term": "Fall 2024",
+        "notes": "Completed with an A",
+        "done": true
+      },
+      "CSCE 181: Introduction to Computing": {
+        "term": "Fall 2024",
+        "notes": "Completed with a B",
+        "done": true
+      },
+      "CSCE 221: Data Structures and Algorithms": {
+        "term": "",
+        "notes": "",
+        "done": true
+      },
+      "CSCE 222: Discrete Structures for Computing": {
+        "term": "",
+        "notes": "",
+        "done": true
+      },
+      "ENGR 102: Engineering Lab I - Computation": {
+        "term": "",
+        "notes": "",
+        "done": true
+      },
+      "STAT 211: Principles of Statistics I": {
+        "term": "",
+        "notes": "",
+        "done": true
+      },
+      "CSCE 312: Computer Organization": {
+        "term": "",
+        "notes": "",
+        "done": true
+      },
+      "CSCE 313: Introduction to Computer Systems": {
+        "term": "",
+        "notes": "",
+        "done": true
+      },
+      "CSCE 314: Programming Languages": {
+        "term": "",
+        "notes": "",
+        "done": true
+      }
+    }
+  }
+  

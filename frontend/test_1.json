@@ -1,0 +1,17 @@
+{
+  "userName": "John Doe",
+  "graduationDate": "May 2026",
+  "gpa": "3.8",
+  "degreeProgress": "0",
+  "major": "Computer Science",
+  "degreeType": "Bachelor of Science",
+  "plannedCourses": {
+    "Spring 2025": [
+      {
+        "courseName": "CSCE 121: Introduction to Program Design",
+        "notes": "",
+        "option": ""
+      }
+    ]
+  }
+}
